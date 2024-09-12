@@ -1,6 +1,6 @@
 LicenseDash Auto WHMCS - On click installer / Updator
 =====================================================
-![Loading GIF](https://licensedash.com/wp-content/uploads/2024/08/CPT2408271643-1707x769-1.gif)
+![Loading GIF](https://docs.licensedash.com/assets/img/CPT2408271719-1707x785.gif)
 
 Download LicenseDash Auto Installer / Updater
 ---------------------------------------------
@@ -53,4 +53,23 @@ Ideal for businesses that prefer flexibility and minimal upfront costs.
 -   Free IP Instant Changes
 -   100% Automatic Updates
 
-![Loading GIF](https://docs.licensedash.com/assets/img/CPT2408271719-1707x785.gif)
+WHMCS Business
+==============
+
+Save significantly on your licenses with our competitive pricing structure. Reduce your operational costs without compromising on quality.
+
+-   [Easy to install & instant activation](https://licensedash.com/whmcs-cheap-licenses/#)
+
+-   [Ability to replace your existing license](https://licensedash.com/whmcs-cheap-licenses/#)
+
+-   [Automate your web hosting with WHMCS](https://licensedash.com/whmcs-cheap-licenses/#)
+
+[View Plan](https://licensedash.com/whmcs-cheap-licenses/#plans)
+
+[Starting @ $1.99/mo](https://licensedash.com/whmcs-cheap-licenses/#)
+
+Replace your existing license just by 1-click.
+
+Reduce 98% of your license renewal cost.
+
+![](https://licensedash.com/wp-content/uploads/2024/06/licensedash-WHMCS-cheap-licenses.png)
