@@ -1,5 +1,6 @@
 LicenseDash Auto WHMCS - On click installer / Updator
 =====================================================
+![Loading GIF](https://docs.licensedash.com/assets/img/CPT2408271643-1707x769.gif)
 
 Download LicenseDash Auto Installer / Updater
 ---------------------------------------------
